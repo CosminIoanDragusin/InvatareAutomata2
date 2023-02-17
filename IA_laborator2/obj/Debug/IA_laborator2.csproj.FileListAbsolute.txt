@@ -1,0 +1,20 @@
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\bin\Debug\IA_laborator2.exe.config
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\bin\Debug\IA_laborator2.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\bin\Debug\IA_laborator2.pdb
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.csprojAssemblyReference.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.Form1.resources
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.Properties.Resources.resources
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.csproj.GenerateResource.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\invatare automata\laborator\IA_laborator2\obj\Debug\IA_laborator2.pdb
+C:\Users\user\Desktop\IA_laborator2\bin\Debug\IA_laborator2.exe.config
+C:\Users\user\Desktop\IA_laborator2\bin\Debug\IA_laborator2.exe
+C:\Users\user\Desktop\IA_laborator2\bin\Debug\IA_laborator2.pdb
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.Form1.resources
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.Properties.Resources.resources
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.exe
+C:\Users\user\Desktop\IA_laborator2\obj\Debug\IA_laborator2.pdb
